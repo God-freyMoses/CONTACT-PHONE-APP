@@ -1,4 +1,4 @@
-## Fnbwk6
+# Contact Book App
 
 📇 **Week 6 – Contact Book App & Working with APIs**
 
@@ -35,6 +35,4 @@ By learning to work with APIs, I’m unlocking one of the most powerful tools in
 
 This week marks the end of the Intermediate Phase, and it’s been quite a journey. I’ve progressed from building static pages to creating interactive, data-driven applications. The Contact Book app is more than just another project—it’s proof that I can build something that communicates with the internet.
 
-That’s a big achievement.
-
-Let’s finish strong!
+I’m excited to see what the future holds for me and my app. I’m confident that I can continue to grow and improve as a developer, and I’m ready to take on new challenges and projects.
